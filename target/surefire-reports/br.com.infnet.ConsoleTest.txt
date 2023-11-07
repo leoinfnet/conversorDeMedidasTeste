@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: br.com.infnet.ConsoleTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.14 s <<< FAILURE! - in br.com.infnet.ConsoleTest
+testaEscolhaErrada  Time elapsed: 0.072 s  <<< ERROR!
+br.com.infnet.exceptions.TemperaturaInvalidaException: Temperatura Inválida
+	at br.com.infnet.ConsoleTest.testaEscolhaErrada(ConsoleTest.java:14)
+
