@@ -1,4 +1,0 @@
-GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
-ConversorDeMedidas,br.com.infnet.exceptions,TemperaturaInvalidaException,3,4,0,0,2,2,1,1,1,1
-ConversorDeMedidas,br.com.infnet.util,ConsoleUtil,0,18,0,2,0,5,0,3,0,2
-ConversorDeMedidas,br.com.infnet.util,ConversorDeTemperaturas,0,27,0,0,0,5,0,5,0,5
